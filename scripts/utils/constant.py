@@ -15,9 +15,9 @@ NETWORKS = {
 }
 
 # Token details
-TOKEN_NAME = "Advanced Token"
-TOKEN_SYMBOL = "ATK"
-INITIAL_SUPPLY = 1_000_000 * (10 ** 18)  # 1 million tokens with 18 decimals
+TOKEN_NAME = "Atomica"
+TOKEN_SYMBOL = "ATM"
+INITIAL_SUPPLY = 1_000_000_000 * (10 ** 18)  # 1 billion tokens with 18 decimals
 
 # Voting contract parameters
 VOTING_PERIOD = 100  # Voting period in seconds
