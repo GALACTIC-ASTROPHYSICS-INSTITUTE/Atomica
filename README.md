@@ -1,3 +1,4 @@
+```
 Atomica/
 │
 ├── README.md
@@ -69,3 +70,4 @@ Atomica/
     └── Rust/
         ├── example_token.rs
         └── example_governance.rs
+```
