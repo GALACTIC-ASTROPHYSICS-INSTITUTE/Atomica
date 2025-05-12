@@ -1,3 +1,5 @@
+![Logo](Atomica.png) 
+
 ```
 Atomica/
 │
