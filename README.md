@@ -1,5 +1,56 @@
 ![Logo](Atomica.png) 
 
+# Atomica
+
+## Overview
+
+Atomica is a decentralized application designed to facilitate seamless interactions within the Galactic Astrophysics Institute's ecosystem. This project aims to provide a robust platform for managing tokens and governance proposals, ensuring transparency and efficiency in decision-making processes.
+
+## Features
+
+- **Token Management**: Create and manage tokens with ease.
+- **Governance Proposals**: Submit and vote on proposals to influence project direction.
+- **Decentralization**: Operate on a decentralized network to ensure security and trust.
+
+## Getting Started
+
+### Prerequisites
+
+- Rust programming language
+- Cargo package manager
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/GALACTIC-ASTROPHYSICS-INSTITUTE/Atomica.git
+   cd Atomica
+   ```
+
+2. Build the project:
+   ```bash
+   cargo build
+   ```
+
+3. Run the application:
+   ```bash
+   cargo run
+   ```
+
+## Usage
+
+- To create a new token, use the `create_token` function.
+- To submit a governance proposal, call the `create_proposal` method with the proposal description.
+- Voting on proposals can be done using the `vote` method.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ```
 Atomica/
 │
